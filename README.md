@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'am Tiago Piccinatto</h1>
 <h3 align="center">.NET Developer</h3>
 
-- 👨‍💻 Meu Portifolio em React [piccinatto.com](piccinatto.com)
+- 👨‍💻 Meu Portifolio em React [https://piccinatto.com/](https://piccinatto.com/)
 
 - 🌱 Aprendendo **ReactNative**
 
