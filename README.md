@@ -1,12 +1,28 @@
-<h1 align="center">Hi 👋, I'am Tiago Piccinatto</h1>
-<h3 align="center">.NET Developer</h3>
+# Olá 👋, Eu sou Tiago Piccinatto
+## Desenvolvedor .NET
 
-- 👨‍💻 Meu Portifolio [https://piccinatto.com/](https://piccinatto.com/)
+- 📄 Sobre Mim
 
-- 🌱 Aprendendo **.NET MAUI**
+Sou apaixonado por desenvolver projetos utilizando uma variedade de tecnologias e ferramentas. Minha experiência e especialização incluem:
 
-- 📫 Contate-me **tiagopiccinatto@outlook.com**
+🖥️ Frontend: HTML5, CSS, JavaScript, TypeScript, Bootstrap  
+🖥️ Backend: ASP.NET, .NET, .NET Core, C#, VB.NET, WebForms, Windows Forms  
+💾 Banco de Dados: SQL, bancos de dados relacionais e não relacionais  
+🚀 APIs: RESTful APIs, SOAP  
+🔄 Controle de Versão: GIT, Git Flow  
+🛠️ Metodologias: Ágil, TDD (Desenvolvimento Orientado a Testes), DDD (Domain Driven Design)  
 
-- 📄 Um Pouco Sobre mim, estudando e desenvolvendo projetos nas seguintes linguagens: - HTML5, CSS e JavaScript, TypeScript, ASP NET, .NET, Bootstrap, Banco de Dados SQL REST API, Versionamento GIT, Metodologia AGIL, TDD Além dos cursos e projetos desenvolvidos, realizo mentorias com profissionais mais experientes, o que tem contribuído ainda mais para o meu desenvolvimento. Venho me dedicando a adquirir conhecimentos para atuar como desenvolvedor, estudando e desenvolvendo projetos nas seguintes linguagens: HTML5, CSS e JavaScript, ASP NET, .NET, Bootstrap, Banco de Dados Relacional e não relacional, REST API, Versionamento GIT, Além dos cursos e projetos desenvolvidos, realizo mentorias com profissionais mais experientes, o que tem contribuído ainda mais para o meu desenvolvimento.
+Estou continuamente empenhado em aprimorar minhas habilidades através de cursos e projetos práticos.
 
+## Meu Trabalho
+
+Ao longo da minha carreira, tenho entregue soluções de alta qualidade para clientes e projetos, garantindo eficiência, escalabilidade e segurança. Alguns dos destaques do meu trabalho incluem:
+
+- Desenvolvimento de sistemas web robustos utilizando tecnologias modernas como ASP.NET Core e Angular.
+- Implementação de APIs RESTful e integração de sistemas para melhorar a comunicação entre diferentes componentes de software.
+- Criação de interfaces responsivas e amigáveis para o usuário, priorizando a experiência do usuário em todos os projetos.
+- Manutenção e sustentação de sistemas legados, como WebForms e WinForms, utilizando VB.NET e C#.
+- Utilização de boas práticas de desenvolvimento, como testes automatizados, controle de versão eficiente e padrões de projeto sólidos.
+
+Estou sempre aberto a novas oportunidades e desafios. Sinta-se à vontade para se conectar comigo e conhecer mais sobre o meu trabalho! [Repositório no GitHub](https://github.com/TiagoPiccinatto?tab=repositories)
 
